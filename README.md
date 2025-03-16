@@ -2,7 +2,7 @@ Here's a **visually appealing and professional** `README.md` for your GitHub pro
 
 ---
 
-# 💻 **Hi, I'm [Your Name]** 👋  
+# 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
 
 🚀 **Software Test Engineer** | 🔍 Passionate about Quality Assurance | 🛠️ **Manual & Automation Testing**  
 
