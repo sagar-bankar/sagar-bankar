@@ -1,6 +1,4 @@
-Here's a **visually appealing and professional** `README.md` for your GitHub profile:  
-
----
+ ---
 
 # 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
 
