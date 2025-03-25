@@ -46,7 +46,7 @@
 
 ## 📝 **Latest Projects**  
 
-🔹 **[Project 1 - Automated Web Testing]([https://github.com/your-username/project1](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project))**  
+🔹 **[Project 1 - Automated Web Testing](https://github.com/your-username/project1](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 📌 Selenium-based test automation framework for web applications.  
 
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
