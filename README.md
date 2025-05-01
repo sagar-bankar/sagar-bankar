@@ -36,13 +36,14 @@
 ![Tech Stack](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,postgres,postman)  
 
 ---
-
+<!--
 ## 📂 **GitHub Stats**  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 ---
+!-->
 
 ## 📝 **Latest Projects**  
 
