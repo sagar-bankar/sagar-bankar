@@ -51,13 +51,13 @@
 
 🔹 **[Project 1 - Automated Web Testing](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 📌 Selenium-based test automation framework for web applications.  
-
+<!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
 
 🔹 **[Project 3 - CI/CD Pipeline](https://github.com/your-username/project3)**  
 📌 End-to-end CI/CD setup using Jenkins and GitHub Actions.  
-
+!-->
 ---
 
 💡 **Let’s connect and build something amazing!** 🚀  
