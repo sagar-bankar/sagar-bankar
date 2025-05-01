@@ -14,7 +14,7 @@
 ✔ **Manual & Automation Testing**  
 ✔ **Selenium | Java | TestNG**  
 ✔ **Jenkins | Git | GitHub | SQL | Jira**  
-✔ **API Testing **  
+✔ **API Testing**  
 
 📌 **I am passionate about** ensuring software reliability, writing efficient test scripts, and contributing to seamless CI/CD pipelines.  
 
