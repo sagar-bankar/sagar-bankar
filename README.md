@@ -78,7 +78,6 @@
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-bankar&show_icons=true&theme=radical)
 
 ---
----
 
 💡 **Let’s connect and build something amazing!** 🚀  
 
