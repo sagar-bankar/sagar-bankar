@@ -14,6 +14,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 ---
+### 📊 GitHub Stats
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-bankar&show_icons=true&theme=radical)
+
+---
 
 # 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
 
