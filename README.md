@@ -1,5 +1,19 @@
 <img height="300" width="1200" src="https://www.thinktank.de/wp-content/uploads/2022/12/Tests-in-Softwareentwicklung.webp">
  ---
+ ---
+
+### 🔧 Most Used Tools & Tech
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-f2a900?style=flat)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
 
 # 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
 
