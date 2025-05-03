@@ -63,7 +63,7 @@
 
 ## 📝 **Latest Projects**  
 
-🔹 **[Project 1 - Automated Web Testing-Bank Domain](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
+🔹 **[Project 1 - Automated Web Testing-Bank Domain TDD](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 📌 Automated tests in a WEB application (https://parabank.parasoft.com/parabank/index.htm) - The automation was done with Selenium + Java TestNG Maven structure used.  
 Extent Report generated Logs file and screenshots auto add to failed test cases. 
 
