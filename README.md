@@ -65,6 +65,9 @@
 
 🔹 **[Project 1 - Automated Web Testing-Bank Domain](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 📌 Selenium-based test automation framework for web applications.  
+
+🔹 **[Project 2 - Automated Web Testing-BDD](https://github.com/sagar-bankar/Parabank-Automation-BDD)**  
+📌 Selenium-based test automation framework for web applications.  
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
