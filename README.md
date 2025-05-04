@@ -68,7 +68,12 @@
 Extent Report generated Logs file and screenshots auto add to failed test cases. 
 
 🔹 **[Project 2 - Automated Web Testing-BDD](https://github.com/sagar-bankar/Parabank-Automation-BDD)**  
-📌 Selenium-based test automation framework for web applications.  
+📌 Automated tests in a WEB application (https://parabank.parasoft.com/parabank/index.htm) - BDD approach using Cucumber and Gherkin syntax
+✅ Selenium WebDriver for browser automation
+✅ Page Object Model (POM) for clean and maintainable code
+✅ log4j for logging and debugging
+✅ Screenshot capture on test failures
+✅ Maven for dependency management and build
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
