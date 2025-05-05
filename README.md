@@ -1,4 +1,3 @@
-<img height="300" width="1200" src="https://www.thinktank.de/wp-content/uploads/2022/12/Tests-in-Softwareentwicklung.webp">
 ---
 
 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
@@ -63,13 +62,17 @@
 
 ## 📝 **Latest Projects**  
 
-🔹 **[Project 1 - Automated Web Testing – TDD Approach] (https://github.com/sagar-bankar/ParaBank_Automation_TDD.git)**
-📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.
-✅ Includes Extent Reports, log files, and auto screenshots for failed tests.
+🔹 **[Project 1 - Automated Web Testing-TDD](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
+📌 Automated tests in a WEB application (https://parabank.parasoft.com/parabank/index.htm) - The automation was done with Selenium + Java TestNG Maven structure used.  
+Extent Report generated Logs file and screenshots auto add to failed test cases. 
 
-🔹 **[Project 2 - Automated Web Testing – BDD Approach] (https://github.com/sagar-bankar/Parabank-Automation-BDD.git)**
-📌 Same app tested using BDD with Cucumber + Gherkin.
-✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
+🔹 **[Project 2 - Automated Web Testing-BDD](https://github.com/sagar-bankar/Parabank-Automation-BDD)**  
+📌 Automated tests in a WEB application (https://parabank.parasoft.com/parabank/index.htm) - BDD approach using Cucumber and Gherkin syntax
+✅ Selenium WebDriver for browser automation
+✅ Page Object Model (POM) for clean and maintainable code
+✅ log4j for logging and debugging
+✅ Screenshot capture on test failures
+✅ Maven for dependency management and build
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
