@@ -63,13 +63,13 @@
 
 ## 📝 **Latest Projects**  
 
-🔹 **[Automated Web Testing – TDD Approach](https://github.com/sagar-bankar/ParaBank_Automation_TDD.git)**
-📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven
-✅ Includes Extent Reports, log files, and auto screenshots for failed tests
+🔹 **[Project 1 - Automated Web Testing – TDD Approach] (https://github.com/sagar-bankar/ParaBank_Automation_TDD.git)**
+📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.
+✅ Includes Extent Reports, log files, and auto screenshots for failed tests.
 
-🔹 **[Automated Web Testing – BDD Approach](https://github.com/sagar-bankar/Parabank-Automation-BDD.git)**
-📌 Same app tested using BDD with Cucumber + Gherkin
-✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework
+🔹 **[Project 2 - Automated Web Testing – BDD Approach] (https://github.com/sagar-bankar/Parabank-Automation-BDD.git)**
+📌 Same app tested using BDD with Cucumber + Gherkin.
+✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
