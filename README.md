@@ -67,7 +67,7 @@
 
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 
-🔹 **[Project 2 - Automated Web Testing-BDD Approach](https://github.com/sagar-bankar/Parabank-Automation-BDD)**  
+🔹 **[Project 2 - Automated Web Testing-Behavior-Driven Development (BDD) Framework](https://github.com/sagar-bankar/Parabank-Automation-BDD)**  
 📌 Web app tested using BDD with Cucumber + Gherkin.
 
 ✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
