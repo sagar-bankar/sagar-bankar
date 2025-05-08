@@ -62,7 +62,7 @@
 
 ## 📝 **Latest Projects**  
 
-🔹 **[Project 1 - Automated Web Testing-TDD Approach](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
+🔹 **[Project 1 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.
 
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
