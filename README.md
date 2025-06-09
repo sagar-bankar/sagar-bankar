@@ -61,11 +61,10 @@
 !-->
 
 ## 📝 **Latest Projects**  
+# 🚀 Parabank Hybrid Automation Framework
 
 🔹 **[Project 1 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
-
-# 🚀 Parabank Hybrid Automation Framework
 
 🔗 **Live Project Demo:** [Click here to view](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
