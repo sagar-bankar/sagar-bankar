@@ -77,6 +77,18 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 📌 Web app tested using BDD with Cucumber + Gherkin.
 
 ✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
+
+# 🚀 OrangeHRM Hybrid Automation Framework
+
+🔹 **[Project 3 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/OrangeHRM)**  
+<!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
+
+🔗 **Live Project Demo:** [Click here to view](https://github1s.com/sagar-bankar/OrangeHRM)
+
+This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, ExtentReports, and CI/CD with Jenkins.
+
+
+✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
