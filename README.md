@@ -93,6 +93,19 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 
 
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
+
+# 🚀 Rest Assured-API Testing Hybrid Automation Framework
+
+🔹 **[Project 4 - API Testing Rest assured-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/RestAssuredAutomation.git)**  
+<!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
+
+🔗 **Live Project Demo:** [Click here to view](https://github.com/sagar-bankar/RestAssuredAutomation.git)
+
+This is a professional Hybrid Automation Framework using Rest Assured, TestNG, ExtentReports, and CI/CD with Jenkins.
+
+
+✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
+
 <!--
 🔹 **[Project 2 - API Testing with Postman](https://github.com/your-username/project2)**  
 📌 Automated API testing suite using Postman and Newman.  
