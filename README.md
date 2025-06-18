@@ -41,11 +41,11 @@
 ## 🛠 **Tech Stack**  
 
 🔹 **Programming:** Java, SQL  
-🔹 **Automation Tools:** Selenium, TestNG, Postman  
+🔹 **Automation Tools:** Selenium, TestNG, Rest Assured  
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
 🔹 **Version Control:** Git, GitHub  
-🔹 **Framework:** TDD, BDD  
+🔹 **Framework:** TDD, BDD, Hybrid Framework  
 
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,postgres,postman)  
