@@ -45,7 +45,7 @@
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
 🔹 **Version Control:** Git, GitHub  
-🔹 **Framework:** TDD, BDD, Hybrid Framework  
+🔹 **Framework:** TDD, BDD, Hybrid Automation Framework  
 
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,postgres,postman)  
