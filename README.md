@@ -66,7 +66,7 @@
 🔹 **[Project 1 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
 
-🔗 **Live Project Demo:** [Click here to view](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
+🔗 **Live Project Page:** [Click here to view](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
 This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, ExtentReports, and CI/CD with Jenkins.
 
@@ -99,7 +99,7 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 🔹 **[Project 4 - API Testing Rest assured-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/RestAssuredAutomation.git)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
 
-🔗 **Live Project Demo:** [Click here to view](https://sagar-bankar.github.io/RestAssuredAutomation/)
+🔗 **Live Project Page:** [Click here to view](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
 This is a professional Hybrid Automation Framework using Rest Assured, TestNG, ExtentReports, and CI/CD with Jenkins.
 
