@@ -1,6 +1,6 @@
 ---
 
-💻 **Hi, I'm [SAGAR BANKAR]** 👋  
+💻 **Hi, I'm SAGAR BANKAR** 👋  
 ---
 🚀 **Software Test Engineer** | 🔍 Passionate about Quality Assurance | 🛠️ **Manual & Automation Testing** 
 
