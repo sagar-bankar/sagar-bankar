@@ -77,7 +77,9 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 # 🚀 Parabank Behavior Driven Development Framework
 ### 🔹 ParaBank BDD Framework with Cucumber | 
 🔹 **[Project 2 - Parabank BDD Automation Framework](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)**  
+
 🔗 **Live Project Demo:** [Click here to view](https://github1s.com/sagar-bankar/OrangeHRM)
+
 📌 Cucumber + Gherkin based BDD framework with full automation.
 ✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
 
