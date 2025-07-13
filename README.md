@@ -73,9 +73,9 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 ---
-### 🔹 ParaBank Hybrid Automation Framework
+### 🔹 ParaBank Web Framework | POM + TestNG + CI/CD + Reporting
 ✅ Built using Selenium, Java, TestNG, POM, and Jenkins  
-🔗 [Live Project Page → Click here to view](#)
+🔗 [Live Project Page → Click here to view](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
 
 # 🚀 Parabank Behavior Driven Development Framework-->BDD
