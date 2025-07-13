@@ -62,7 +62,7 @@
 
 ## 📈 Projects That Speak for Me
 # 🚀 Parabank Hybrid Automation Framework
-
+### 🔹 ParaBank Web Framework | POM + TestNG + CI/CD + Reporting
 🔹 **[Project 1 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
 
@@ -70,13 +70,8 @@
 
 This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, ExtentReports, and CI/CD with Jenkins.
 
-
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 ---
-### 🔹 ParaBank Web Framework | POM + TestNG + CI/CD + Reporting
-✅ Built using Selenium, Java, TestNG, POM, and Jenkins  
-🔗 [Live Project Page → Click here to view](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
-
 
 # 🚀 Parabank Behavior Driven Development Framework-->BDD
 🔹 **[Project 2 - Automated Web Testing-Behavior-Driven Development (BDD) Framework](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)**  
