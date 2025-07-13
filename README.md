@@ -3,6 +3,7 @@
 💻 **Hi, I'm [SAGAR BANKAR]** 👋  
 ---
 🚀 **Software Test Engineer** | 🔍 Passionate about Quality Assurance | 🛠️ **Manual & Automation Testing** 
+
 💡 I believe in:  
 **“Testing is not about finding bugs — it's about building trust in technology.”**
 
