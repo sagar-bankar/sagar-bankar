@@ -25,7 +25,6 @@
 
 ---
 ## 🏆 **About Me**  
-
 💡 **Experienced in:**  
 ✔ **Manual & Automation Testing**  
 ✔ **Selenium | Java | TestNG**  
