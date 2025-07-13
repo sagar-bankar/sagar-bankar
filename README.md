@@ -78,7 +78,7 @@
 
 ---
 
-### 🌟 OrangeHRM Automation Suite | From Login to Leave Approval
+### 🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/OrangeHRM)
 
 > Complete test coverage of OrangeHRM including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
