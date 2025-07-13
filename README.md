@@ -72,16 +72,13 @@
 
 This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, ExtentReports, and CI/CD with Jenkins.
 
-✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 ---
 
 # 🚀 Parabank Behavior Driven Development Framework
 ### 🔹 ParaBank BDD Framework with Cucumber | 
 🔹 **[Project 2 - Parabank BDD Automation Framework](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)**  
-📌 Cucumber + Gherkin based BDD framework with full automation.
-
 🔗 **Live Project Demo:** [Click here to view](https://github1s.com/sagar-bankar/OrangeHRM)
-
+📌 Cucumber + Gherkin based BDD framework with full automation.
 ✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
 
 # 🚀 OrangeHRM Hybrid Automation Framework
