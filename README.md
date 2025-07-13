@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Skills  
 
 🔹 **Programming:** Java, SQL  
 🔹 **Automation:** Selenium, TestNG, Rest Assured  
