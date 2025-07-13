@@ -60,7 +60,7 @@
 ---
 !-->
 
-## 📝 **Latest Projects**  
+## 📈 Projects That Speak for Me
 # 🚀 Parabank Hybrid Automation Framework
 
 🔹 **[Project 1 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)**  
