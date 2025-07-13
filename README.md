@@ -75,7 +75,7 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 ---
 
 # 🚀 Parabank Behavior Driven Development Framework
-### 🔹 ParaBank BDD Framework with Cucumber | 
+### 🔹 ParaBank BDD Framework with Cucumber🌱 | Cucumber + Gherkin + POM + Maven + CI/CD + Reporting
 🔹 **[Project 2 - Parabank BDD Automation Framework](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)**  
 
 🔗 **Live Project Demo:** [Click here to view](https://github1s.com/sagar-bankar/OrangeHRM)
@@ -85,7 +85,7 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 ✅ Features: POM Design, log4j, screenshot on failure, Maven-based automation framework.
 
 # 🚀 OrangeHRM Hybrid Automation Framework
-
+### 🔹OrangeHRM Automation Suite 🌟 | POM + TestNG + CI/CD + Reporting
 🔹 **[Project 3 - Automated Web Testing-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/OrangeHRM)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
 
@@ -97,7 +97,7 @@ This is a professional Hybrid Automation Framework using Selenium, TestNG, POM, 
 ✅ Includes Extent Reports, log files, and auto screenshots for failed tests .
 
 # 🚀 Rest Assured-API Testing Hybrid Automation Framework
-
+### 🔹Rest Assured API Framework 🔗 | Rest Assured + TestNG + CI/CD + Reporting
 🔹 **[Project 4 - API Testing Rest assured-Hybrid Automation Framework with TestNG](https://github.com/sagar-bankar/RestAssuredAutomation.git)**  
 <!--📌 Tested the Parabank Web App using Selenium, Java, TestNG, and Maven.  -->
 
