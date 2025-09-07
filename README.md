@@ -71,7 +71,7 @@
 ---
 
 ### 🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
-🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework)  
+🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)  
 🔗 [Live Preview](https://github1s.com/sagar-bankar/OrangeHRM)
 
 > Behavior-Driven Framework using Cucumber and Gherkin syntax with feature files. Includes **log4j**, structured reports, and hooks.
