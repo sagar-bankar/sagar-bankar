@@ -40,11 +40,11 @@
 ✔ API Testing using Rest Assured  
 
 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
-
+<!--
 📫 **Reach Me At:**  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sagar-bankar)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sagar.bankar590@gmail.com)  
-
+-->
 ---
 
 ## 🛠 Tech Skills  
