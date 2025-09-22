@@ -62,7 +62,7 @@
 
 ## 📈 Projects That Speak for Me
 
-### ✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
+### 1.✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)  
 🔗 [Live Project Page](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
@@ -70,7 +70,7 @@
 
 ---
 
-### 🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
+### 2.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)  
 🔗 [Live Preview](https://github1s.com/sagar-bankar/OrangeHRM)
 
@@ -78,14 +78,14 @@
 
 ---
 
-### 🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
+### 3.🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/OrangeHRM)
 
 > Complete test coverage of OrangeHRM including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
-### 🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
+### 4.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
 🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
