@@ -88,7 +88,7 @@
 ### 4.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/DEMOQA__Automation-Engineer)
 🔗 [Live Preview](https://sagar-bankar.github.io/OrangeHRM_TDD_Project_Github_Page/)
-> Complete test coverage of OrangeHRM including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
+> Complete test coverage of DEMOQA including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
