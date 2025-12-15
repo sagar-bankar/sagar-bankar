@@ -94,7 +94,7 @@
 
 ### 5.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
-🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
+🔗 [Live Docs](https://sagar-bankar.github.io/DEMOQA_TDD_Project_Github_Page/)
 
 > API test framework with REST Assured + TestNG, includes **response validation**, **schema assertions**, and **Extent Reports** integration.
 
