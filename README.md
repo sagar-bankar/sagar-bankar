@@ -92,7 +92,7 @@
 
 ---
 
-### 4.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
+### 5.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
 🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
