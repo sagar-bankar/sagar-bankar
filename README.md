@@ -87,14 +87,14 @@
 
 ### 4.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/DEMOQA__Automation-Engineer)
-🔗 [Live Preview](https://sagar-bankar.github.io/OrangeHRM_TDD_Project_Github_Page/)
+🔗 [Live Preview](https://sagar-bankar.github.io/DEMOQA_TDD_Project_Github_Page/)
 > Complete test coverage of DEMOQA including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
 ### 5.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
-🔗 [Live Docs](https://sagar-bankar.github.io/DEMOQA_TDD_Project_Github_Page/)
+🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
 > API test framework with REST Assured + TestNG, includes **response validation**, **schema assertions**, and **Extent Reports** integration.
 
