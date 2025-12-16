@@ -1,0 +1,49 @@
+name: Update QA Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate QA Quote
+        run: |
+          mkdir -p quotes
+          QUOTES=(
+            "A tester's job is to think like the user and break like a hacker."
+            "Testing is the art of risk reduction."
+            "Quality is built in, not tested in."
+            "Great testers do not find bugs, they prevent disasters."
+            "If you did not test it, you do not know it works."
+            "Software testing is the silent guardian of quality."
+            "Code may work, but testing proves it."
+          )
+
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+
+          cat <<EOF > quotes/quote.svg
+          <svg xmlns="http://www.w3.org/2000/svg" width="900" height="140">
+            <rect width="100%" height="100%" fill="#0d1117"/>
+            <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+              fill="#58a6ff" font-size="22" font-family="Segoe UI, Arial">
+              $RANDOM_QUOTE
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add quotes/quote.svg
+          git commit -m "Update QA quote" || echo "No changes"
+          git push
