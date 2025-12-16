@@ -118,6 +118,8 @@
 ### 🧪 Random Software Tester Quote
 
 ![QA Quote](https://raw.githubusercontent.com/sagar-bankar/sagar-bankar/main/quotes/quote.svg)
+![QA Quote](quotes/quote.svg)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sagar-bankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
