@@ -99,15 +99,15 @@
 > API test framework with REST Assured + TestNG, includes **response validation**, **schema assertions**, and **Extent Reports** integration.
 
 ---
-
+<!--
 ## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-bankar&show_icons=true&theme=graywhite" alt="GitHub Stats" />
 </p>
 
----
-# 📊 GitHub Stats:
+--- -->
+## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sagar-bankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
