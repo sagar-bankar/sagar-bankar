@@ -2,7 +2,7 @@ name: Update QA Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every 10 minutes
+    - cron: "*/10 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -32,42 +32,22 @@ jobs:
           RANDOM_QUOTE="${QUOTES[$RANDOM % ${#QUOTES[@]}]}"
 
           cat <<EOF > quotes/quote.svg
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="900" height="180" rx="20" fill="url(#bg)"/>
-
-  <!-- Quote -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
+  <rect width="900" height="180" rx="20" fill="#0f2027"/>
   <text x="50%" y="80" text-anchor="middle"
         font-family="Segoe UI, Arial"
         font-size="26"
-        fill="#ffffff"
-        opacity="0">
+        fill="#ffffff">
     $RANDOM_QUOTE
-    <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
-    <animateTransform attributeName="transform"
-      type="translate" from="0 20" to="0 0" dur="1.5s" fill="freeze"/>
   </text>
-
-  <!-- Signature -->
   <text x="880" y="145" text-anchor="end"
         font-family="Segoe UI, Arial"
         font-size="14"
-        fill="#cfd9df"
-        opacity="0">
+        fill="#cfd9df">
     — Sagar Bankar | Software Test Engineer
-    <animate attributeName="opacity" from="0" to="1" dur="2.2s" fill="freeze"/>
   </text>
 </svg>
 EOF
-
 
       - name: Commit and Push
         run: |
