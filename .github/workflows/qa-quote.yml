@@ -2,7 +2,7 @@ name: Update QA Quote
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every 1 hour (safe)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
