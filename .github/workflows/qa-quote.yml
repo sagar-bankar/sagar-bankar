@@ -19,34 +19,28 @@ jobs:
         run: |
           mkdir -p quotes
 
-          cat > quotes/quotes.txt <<EOF
-A tester's job is to think like the user and break like a hacker.
-Testing is the art of risk reduction.
-Quality is built in, not tested in.
-Great testers prevent disasters before users see them.
-If you did not test it, you do not know it works.
-Testing turns assumptions into confidence.
-EOF
+          printf "%s\n" \
+          "A tester’s job is to think like the user and break like a hacker." \
+          "Testing is the art of risk reduction." \
+          "Quality is built in, not tested in." \
+          "Great testers prevent disasters before users see them." \
+          "If you did not test it, you do not know it works." \
+          "Testing turns assumptions into confidence." \
+          > quotes/quotes.txt
 
           QUOTE=$(shuf -n 1 quotes/quotes.txt)
 
-          cat > quotes/quote.svg <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <rect width="900" height="180" rx="20" fill="#0d1117"/>
-  <text x="50%" y="80" text-anchor="middle"
-        font-family="Segoe UI, Arial"
-        font-size="26"
-        fill="#58a6ff">
-    $QUOTE
-  </text>
-  <text x="880" y="145" text-anchor="end"
-        font-family="Segoe UI, Arial"
-        font-size="14"
-        fill="#8b949e">
-    — Sagar Bankar | Software Test Engineer
-  </text>
-</svg>
-EOF
+          printf '%s\n' \
+          '<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">' \
+          '<rect width="900" height="180" rx="20" fill="#0d1117"/>' \
+          '<text x="50%" y="80" text-anchor="middle" font-size="26" fill="#58a6ff">' \
+          "$QUOTE" \
+          '</text>' \
+          '<text x="880" y="145" text-anchor="end" font-size="14" fill="#8b949e">' \
+          '— Sagar Bankar | Software Test Engineer' \
+          '</text>' \
+          '</svg>' \
+          > quotes/quote.svg
 
       - name: Commit and Push
         run: |
