@@ -26,6 +26,7 @@ jobs:
           "Great testers prevent disasters before users see them." \
           "If you did not test it, you do not know it works." \
           "Testing turns assumptions into confidence." \
+          "Testing is not about finding bugs — it's about building trust in technology." \
           > quotes/quotes.txt
 
           QUOTE=$(shuf -n 1 quotes/quotes.txt)
