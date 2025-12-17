@@ -2,7 +2,7 @@ name: Update QA Quote
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
+    - cron: "0 0 * * *"   # every 10 minutes
   workflow_dispatch:
 
 permissions:
