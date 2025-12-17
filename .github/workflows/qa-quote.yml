@@ -1,4 +1,4 @@
-name: QA Quote 
+name: update QA Quote 
 
 on:
   schedule:
