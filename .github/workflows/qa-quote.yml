@@ -1,9 +1,9 @@
 name: Update QA Quote
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -16,11 +16,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate QA Quote
-        shell: bash
         run: |
           mkdir -p quotes
 
-          QUOTE=$(shuf -n 1 <<'EOF'
+          cat > quotes/quotes.txt <<EOF
 A tester's job is to think like the user and break like a hacker.
 Testing is the art of risk reduction.
 Quality is built in, not tested in.
@@ -28,38 +27,23 @@ Great testers prevent disasters before users see them.
 If you did not test it, you do not know it works.
 Testing turns assumptions into confidence.
 EOF
-)
 
-          cat <<EOF > quotes/quote.svg
+          QUOTE=$(shuf -n 1 quotes/quotes.txt)
+
+          cat > quotes/quote.svg <<EOF
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="900" height="180" rx="20" fill="url(#bg)"/>
-
+  <rect width="900" height="180" rx="20" fill="#0d1117"/>
   <text x="50%" y="80" text-anchor="middle"
         font-family="Segoe UI, Arial"
         font-size="26"
-        fill="#ffffff"
-        opacity="0">
+        fill="#58a6ff">
     $QUOTE
-    <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
-    <animateTransform attributeName="transform"
-      type="translate" from="0 20" to="0 0" dur="1.5s" fill="freeze"/>
   </text>
-
   <text x="880" y="145" text-anchor="end"
         font-family="Segoe UI, Arial"
         font-size="14"
-        fill="#cfd9df"
-        opacity="0">
+        fill="#8b949e">
     — Sagar Bankar | Software Test Engineer
-    <animate attributeName="opacity" from="0" to="1" dur="2.2s" fill="freeze"/>
   </text>
 </svg>
 EOF
