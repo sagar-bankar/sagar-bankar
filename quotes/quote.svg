@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
-  <rect width="900" height="180" rx="16" fill="#0d1117"/>
-  <text x="40" y="80" fill="#58a6ff" font-size="22" font-family="Arial" font-style="italic">
-    "Testing is not about finding bugs — it's about building trust in technology."
-  </text>
-  <text x="860" y="130" fill="#8b949e" font-size="16" text-anchor="end">
-    — Sagar Bankar | Software Test Engineer
-  </text>
-</svg>
