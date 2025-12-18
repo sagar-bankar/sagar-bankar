@@ -4,7 +4,6 @@
 </p>   -->
 
 <h1 align="center">💻 Hi, I'm SAGAR BANKAR 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=Sagar-bankar&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar-bankar profile views" />
 
 <p align="center">
   🚀 <strong>Software Test Engineer</strong> &nbsp; | &nbsp; 🔍 Passionate about Quality Assurance &nbsp; | &nbsp; 🛠️ Manual + Automation Testing  
@@ -33,6 +32,7 @@
 ---
 
 ## 🏆 About Me
+<img src="https://komarev.com/ghpvc/?username=Sagar-bankar&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar-bankar profile views" />
 
 💡 **Experienced in:**  
 ✔ Manual & Automation Testing  
