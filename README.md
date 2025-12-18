@@ -111,11 +111,18 @@
 ### ✍️ Software Tester Quote
 
 ![QA Quote](https://raw.githubusercontent.com/sagar-bankar/sagar-bankar/main/quotes/quote.svg)
-
+<!--
 ## My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sagar-bankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
+## 📊 My GitHub Stats
+
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-bankar&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-bankar&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-bankar&layout=compact&theme=dark&hide_border=true)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sagar-bankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
