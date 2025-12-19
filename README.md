@@ -142,5 +142,5 @@ If you find my automation testing projects helpful, consider sponsoring me on Gi
 ---
 
 <!-- ### 💡 Let’s connect and build something amazing! 🚀 -->
-<h1 align="center>⭐ If you find something useful here, consider giving it a star!</h1>
-###                                                  ⭐ If you find something useful here, consider giving it a star!
+<h2 align="center">⭐ If you find something useful here, consider giving it a star!</h2>
+
