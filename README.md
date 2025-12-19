@@ -134,5 +134,11 @@
 </div>
 
 ---
+## ❤️ Support My Work
+If you find my automation testing projects helpful, consider sponsoring me on GitHub.
+
+👉 https://github.com/sponsors/sagar-bankar
+
+---
 
 ### 💡 Let’s connect and build something amazing! 🚀
