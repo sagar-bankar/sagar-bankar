@@ -41,7 +41,7 @@
 ✔ API Testing using Rest Assured  
 
 💡 **Learning Playwright and Javascript:**  
-Basic Knowledge Playwright and JavaScript
+✔ Basic Knowledge Playwright and JavaScript
 
 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
 <!--
