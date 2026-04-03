@@ -55,7 +55,6 @@
 
 🔹 **Programming:** Java, SQL, Javascript (Basic)
 🔹 **Automation:** Selenium, TestNG, Rest Assured, Playwright (Basic)
-
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
 🔹 **Version Control:** Git, GitHub  
