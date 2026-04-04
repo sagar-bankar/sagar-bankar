@@ -73,6 +73,13 @@
 > A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
 
 ---
+### 2.✅ Playwright Framework Saucedemo 🚀 | Playwright javascript
+🔗 [GitHub Repository](https://github.com/sagar-bankar/Playwright-Automation-Framework-Saucedemo)
+🔗 [Live Project Page](https://github1s.com/sagar-bankar/Playwright-Automation-Framework-Saucedemo)
+
+> A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
+
+---
 
 ### 2.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)  
