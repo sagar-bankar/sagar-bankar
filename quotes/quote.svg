@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
 <rect width="900" height="180" rx="20" fill="#0d1117"/>
 <text x="50%" y="80" text-anchor="middle" font-size="26" fill="#58a6ff">
-Quality is built in, not tested in.
+A tester’s job is to think like the user and break like a hacker.
 </text>
 <text x="880" y="145" text-anchor="end" font-size="14" fill="#8b949e">
 — Sagar Bankar | Software Test Engineer
