@@ -77,8 +77,6 @@
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript.git)
 🔗 [Live Project Page](https://github1s.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript)
 
-> A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
-
 ---
 
 ### 3.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
