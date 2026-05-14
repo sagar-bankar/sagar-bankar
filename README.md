@@ -119,19 +119,32 @@
 ### ✍️ Software Tester Quote
 
 ![QA Quote](https://raw.githubusercontent.com/sagar-bankar/sagar-bankar/main/quotes/quote.svg)
-
-## My GitHub Stats:
 <!--
+## My GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sagar-bankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -->
+## My GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sagar-bankar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sagar-bankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=sagar-bankar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=Sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sagar-bankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-bankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sagar-bankar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
