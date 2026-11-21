@@ -42,8 +42,6 @@
 ✔ API Testing using Playwright request & Rest Assured  
 ✔ Page Object Model, typed fixtures, JSON schema validation (AJV)  
 ✔ Reporting: Playwright HTML, JUnit, Allure, custom dashboard  
-
-💡 **Currently exploring:**  
 ✔ AI-assisted test generation (GitHub Copilot, Playwright MCP)  
 ✔ Docker for containerised test runs
 
@@ -96,20 +94,20 @@ locators, endpoints, schemas and test data.
 > A clean hybrid framework using **Playwright + TypeScript**, covering **Web UI, REST API and MySQL** in one layered codebase. Includes **Page Object Model with typed fixtures**, **JSON schema validation (AJV)**, **Playwright HTML, JUnit, Allure and a custom dashboard report**, plus **Jenkins CI/CD** with post-build email notifications.
 
 ---
-### 1.✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
+### 2.✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)  
 🔗 [Live Project Page](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
 > A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
 
 ---
-### 2.✅ Playwright Framework Saucedemo 🚀 | Playwright TypeScript
+### 3.✅ Playwright Framework Saucedemo 🚀 | Playwright TypeScript
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript.git)
 🔗 [Live Project Page](https://github1s.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript)
 
 ---
 
-### 3.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
+### 4.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)  
 🔗 [Live Preview](https://sagar-bankar.github.io/Parabank_Automation_BDD_Project_Github_Page/)
 
@@ -117,21 +115,21 @@ locators, endpoints, schemas and test data.
 
 ---
 
-### 4.🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
+### 5.🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/OrangeHRM)
 🔗 [Live Preview](https://sagar-bankar.github.io/OrangeHRM_TDD_Project_Github_Page/)
 > Complete test coverage of OrangeHRM including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
-### 5.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
+### 6.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/DEMOQA__Automation-Engineer)
 🔗 [Live Preview](https://sagar-bankar.github.io/DEMOQA_TDD_Project_Github_Page/)
 > Complete test coverage of DEMOQA including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
-### 6.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
+### 7.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
 🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
@@ -183,13 +181,6 @@ locators, endpoints, schemas and test data.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-## ❤️ Support My Work
-If you find my automation testing projects helpful, consider sponsoring me on GitHub.
-
-👉 https://github.com/sponsors/sagar-bankar
-
 ---
 
 <!-- ### 💡 Let’s connect and build something amazing! 🚀 -->
