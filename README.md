@@ -1,4 +1,4 @@
-<!-- Profile Image Centered --> 
+<!-- Profile Image Centered -->
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/sagar-bankar/sagar-bankar/main/Sagarjvhbsfdv.jpg" width="180" style="border-radius: 12px;" alt="Sagar Bankar">
 </p>   -->
@@ -36,12 +36,14 @@
 
 💡 **Experienced in:**  
 ✔ Manual & Automation Testing  
+✔ Playwright | TypeScript | JavaScript (Web UI, API, DB in one suite)  
 ✔ Selenium | Java | TestNG  
-✔ Jenkins | Git | GitHub | SQL | Jira  
-✔ API Testing using Rest Assured  
-
-💡 **Learning Playwright and Javascript:**  
-✔ Basic Knowledge Playwright and JavaScript
+✔ Jenkins | GitHub Actions | Git | GitHub | SQL | Jira  
+✔ API Testing using Playwright request & Rest Assured  
+✔ Page Object Model, typed fixtures, JSON schema validation (AJV)  
+✔ Reporting: Playwright HTML, JUnit, Allure, custom dashboard  
+✔ AI-assisted test generation (GitHub Copilot, Playwright MCP)  
+✔ Docker for containerised test runs
 
 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
 <!--
@@ -53,39 +55,59 @@
 
 ## 🛠 Tech Skills  
 
-🔹 **Programming:** Java, SQL, Javascript (Basic)
-🔹 **Automation:** Selenium, TestNG, Rest Assured, Playwright (Basic)
+🔹 **Programming:** Java, SQL, TypeScript / JavaScript 
+🔹 **Automation:** Playwright (TypeScript), Selenium, TestNG, Rest Assured
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
 🔹 **Version Control:** Git, GitHub  
-🔹 **Frameworks:** TDD, BDD, Hybrid
+🔹 **Frameworks:** POM, TDD, BDD, Hybrid
 
-![Tech Stack](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,postgres,postman)
+![Tech Stack](https://skillicons.dev/icons?i=java,selenium,typescript,javascript,git,github,jenkins,mysql,docker,postman)
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+Coding agents are an accelerator, not a replacement — every suggestion is reviewed against
+requirements, project patterns and real test results, and I own the final code.
+
+| Tool | How I use it |
+|---|---|
+| **GitHub Copilot** | Inline completions, chat-driven refactoring, test scaffolding |
+| **Playwright MCP** | Live browser and API inspection so locators and endpoints are verified, never guessed |
+| **Claude Code · Codex · Command Code** | Agentic multi-file work: Page Objects, route + schema + spec triples, DB specs |
+| **OpenRouter** | Single gateway for model access across those agents |
+| **Caveman** | Terse agent output to cut token cost; code, paths and errors stay verbatim |
+
+**In-repo evidence:** [`playwright_mcp_context.md`](https://github.com/sagar-bankar/PLAYWRIGHT_OPENCART_AI_V1/blob/master/playwright_mcp_context.md)
+— the shared context file every agent works from: mandatory analysis before creating files,
+dependency order, reuse rules, locator priority, and an explicit no-hallucination clause for
+locators, endpoints, schemas and test data.
 
 ---
 
 ## 📈 Projects That Speak for Me
-### 1.✅ PLAYWRIGHT_OPENCART_AI_V1 Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
+### 1.✅ PLAYWRIGHT_OPENCART_AI_V1 Hybrid Framework 🚀 | Playwright + TypeScript + POM + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/PLAYWRIGHT_OPENCART_AI_V1)
 🔗 [Live Project Page](https://sagar-bankar.github.io/PLAYWRIGHT_OPENCART_AI_PORTFOLIO/)
 
-> A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
+> A clean hybrid framework using **Playwright + TypeScript**, covering **Web UI, REST API and MySQL** in one layered codebase. Includes **Page Object Model with typed fixtures**, **JSON schema validation (AJV)**, **Playwright HTML, JUnit, Allure and a custom dashboard report**, plus **Jenkins CI/CD** with post-build email notifications.
 
 ---
-### 1.✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
+### 2.✅ ParaBank Web Framework 🚀 | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/ParaBank-V1.2-Automation-Project)  
 🔗 [Live Project Page](https://sagar-bankar.github.io/hybrid-framework-portfolio/)
 
 > A clean hybrid framework using Selenium, Java, TestNG, and Maven. Includes **Extent Reports**, **auto screenshots**, and **Jenkins CI/CD**.
 
 ---
-### 2.✅ Playwright Framework Saucedemo 🚀 | Playwright TypeScript
+### 3.✅ Playwright Framework Saucedemo 🚀 | Playwright TypeScript
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript.git)
 🔗 [Live Project Page](https://github1s.com/sagar-bankar/Playwright-Framework-Saucedemo-Playwright-TypeScript)
 
 ---
 
-### 3.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
+### 4.🌱 ParaBank BDD Framework | Cucumber + Gherkin + POM + Maven
 🔗 [GitHub Repository](https://github.com/sagar-bankar/Parabank-Automation-Behavior-Driven-Development-Framework/tree/master)  
 🔗 [Live Preview](https://sagar-bankar.github.io/Parabank_Automation_BDD_Project_Github_Page/)
 
@@ -93,21 +115,21 @@
 
 ---
 
-### 4.🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
+### 5.🌟 OrangeHRM Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/OrangeHRM)
 🔗 [Live Preview](https://sagar-bankar.github.io/OrangeHRM_TDD_Project_Github_Page/)
 > Complete test coverage of OrangeHRM including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
-### 5.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
+### 6.🌟 DEMOQA Automation Suite | POM + TestNG + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/DEMOQA__Automation-Engineer)
 🔗 [Live Preview](https://sagar-bankar.github.io/DEMOQA_TDD_Project_Github_Page/)
 > Complete test coverage of DEMOQA including login, attendance, and leave workflows using Java + Selenium + CI/CD with reporting.
 
 ---
 
-### 6.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
+### 7.🔗 REST API Automation Framework | REST Assured + TestNG + CI/CD
 🔗 [GitHub Repository](https://github.com/sagar-bankar/RestAssuredAutomation)  
 🔗 [Live Docs](https://sagar-bankar.github.io/RestAssuredAutomation/)
 
@@ -159,13 +181,6 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-## ❤️ Support My Work
-If you find my automation testing projects helpful, consider sponsoring me on GitHub.
-
-👉 https://github.com/sponsors/sagar-bankar
-
 ---
 
 <!-- ### 💡 Let’s connect and build something amazing! 🚀 -->
