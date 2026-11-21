@@ -55,7 +55,7 @@
 
 ## 🛠 Tech Skills  
 
-🔹 **Programming:** Java, SQL, TypeScript / JavaScript
+🔹 **Programming:** Java, SQL, TypeScript / JavaScript 
 🔹 **Automation:** Playwright (TypeScript), Selenium, TestNG, Rest Assured
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
