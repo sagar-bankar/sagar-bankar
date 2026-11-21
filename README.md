@@ -36,12 +36,16 @@
 
 💡 **Experienced in:**  
 ✔ Manual & Automation Testing  
+✔ Playwright | TypeScript | JavaScript (Web UI, API, DB in one suite)  
 ✔ Selenium | Java | TestNG  
-✔ Jenkins | Git | GitHub | SQL | Jira  
-✔ API Testing using Rest Assured  
+✔ Jenkins | GitHub Actions | Git | GitHub | SQL | Jira  
+✔ API Testing using Playwright request & Rest Assured  
+✔ Page Object Model, typed fixtures, JSON schema validation (AJV)  
+✔ Reporting: Playwright HTML, JUnit, Allure, custom dashboard  
 
-💡 **Learning Playwright and Javascript:**  
-✔ Basic Knowledge Playwright and JavaScript
+💡 **Currently exploring:**  
+✔ AI-assisted test generation (GitHub Copilot, Playwright MCP)  
+✔ Docker for containerised test runs
 
 📌 Passionate about building reliable software through clean automation, robust test strategies, and modern CI/CD practices.
 <!--
@@ -53,14 +57,14 @@
 
 ## 🛠 Tech Skills  
 
-🔹 **Programming:** Java, SQL, Javascript (Basic)
-🔹 **Automation:** Selenium, TestNG, Rest Assured, Playwright (Basic)
+🔹 **Programming:** Java, SQL, TypeScript / JavaScript
+🔹 **Automation:** Playwright (TypeScript), Selenium, TestNG, Rest Assured
 🔹 **CI/CD:** Jenkins, GitHub Actions  
 🔹 **Bug Tracking:** Jira  
 🔹 **Version Control:** Git, GitHub  
-🔹 **Frameworks:** TDD, BDD, Hybrid
+🔹 **Frameworks:** POM, TDD, BDD, Hybrid
 
-![Tech Stack](https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,postgres,postman)
+![Tech Stack](https://skillicons.dev/icons?i=java,selenium,typescript,javascript,git,github,jenkins,mysql,docker,postman)
 
 ---
 
