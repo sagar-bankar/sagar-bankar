@@ -68,6 +68,26 @@
 
 ---
 
+## 🤖 AI-Assisted Engineering
+
+Coding agents are an accelerator, not a replacement — every suggestion is reviewed against
+requirements, project patterns and real test results, and I own the final code.
+
+| Tool | How I use it |
+|---|---|
+| **GitHub Copilot** | Inline completions, chat-driven refactoring, test scaffolding |
+| **Playwright MCP** | Live browser and API inspection so locators and endpoints are verified, never guessed |
+| **Claude Code · Codex · Command Code** | Agentic multi-file work: Page Objects, route + schema + spec triples, DB specs |
+| **OpenRouter** | Single gateway for model access across those agents |
+| **Caveman** | Terse agent output to cut token cost; code, paths and errors stay verbatim |
+
+**In-repo evidence:** [`playwright_mcp_context.md`](https://github.com/sagar-bankar/PLAYWRIGHT_OPENCART_AI_V1/blob/master/playwright_mcp_context.md)
+— the shared context file every agent works from: mandatory analysis before creating files,
+dependency order, reuse rules, locator priority, and an explicit no-hallucination clause for
+locators, endpoints, schemas and test data.
+
+---
+
 ## 📈 Projects That Speak for Me
 ### 1.✅ PLAYWRIGHT_OPENCART_AI_V1 Hybrid Framework 🚀 | Playwright + TypeScript + POM + CI/CD + Reporting
 🔗 [GitHub Repository](https://github.com/sagar-bankar/PLAYWRIGHT_OPENCART_AI_V1)
